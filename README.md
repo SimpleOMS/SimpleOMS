@@ -14,10 +14,10 @@
   
   <h3>Installation</h3>
   <ol>
-    <li>Download the source or run `git clone https://github.com/SimpleOMS/SimpleOMS`</li>
-    <li>Run the `database/INSTALL.sql` MySQL script on your MySQL Server</li>
-    <li>Configure `src/init.php`</li>
-    <li>Copy the `src` folder into your private webserver</li>
+    <li>Download the source or run <code>git clone https://github.com/SimpleOMS/SimpleOMS</code></li>
+    <li>Run the <code>database/INSTALL.sql</code> MySQL script on your MySQL Server</li>
+    <li>Configure <code>src/init.php</code></li>
+    <li>Copy the <code>src</code> folder into your private webserver</li>
   </ol>
   
   <h2>FAQ</h2>
